@@ -6,7 +6,7 @@ import FeatureSection from "./components/FeatureSection";
 import Workflow from "./components/Workflow";
 import Footer from "./components/Footer";
 import Pricing from "./components/Pricing";
-import Testimonials from "./components/Testimonials";
+// import Testimonials from "./components/Testimonials";
 import AboutMe from "./components/AboutMe";
 import Blog from "./components/Blog";
 import FloatingBlogButton from "./components/FloatingBlogButton";
@@ -25,7 +25,7 @@ const HomePage = () => {
         <FeatureSection />
         <Workflow />
         <Pricing />
-        <Testimonials />
+        {/* <Testimonials /> */}
         <CaseStudy />
         <AboutMe />
         <Footer />

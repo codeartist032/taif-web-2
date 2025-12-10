@@ -8,7 +8,7 @@ const AboutMe = () => {
           </h2>
         </div>
 
-        <div className="flex flex-wrap items-center">
+        <div className="flex flex-wrap items-center justify-center">
           <div className="w-full lg:w-1/2 p-4">
             <div className="bg-gradient-to-r from-primary-burgundy to-primary-mauve rounded-lg p-1">
               <div className="bg-primary-old-burgundy rounded-lg p-8">
@@ -31,52 +31,6 @@ const AboutMe = () => {
                   صاحبات المشاريع على رفع التفاعل تحسين تجربة العميل وزيادة
                   المبيعات… بدون تعقيد وبدون الحاجة لخبرة تسويقية مسبقة. صُنْعَة
                   هي خلاصة تجربة واقعية… صممت لتُشعَر وتُرى وتُطبَّق بسهولة.
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div className="w-full lg:w-1/2 p-4">
-            <div className="space-y-10">
-              <div className="bg-primary-old-burgundy border border-primary-mauve/40 rounded-lg p-6">
-                <div className="flex items-center mb-3 gap-6">
-                  <div className="w-12 h-12 bg-primary-burgundy rounded-full flex items-center justify-center text-2xl font-bold text-white">
-                    +10
-                  </div>
-                  <h4 className="text-xl font-semibold text-primary-cream">
-                    سنوات خبرة
-                  </h4>
-                </div>
-                <p className="text-primary-cream/70">
-                  خبرة واسعة في التسويق الرقمي واستراتيجيات النمو السريع
-                </p>
-              </div>
-
-              <div className="bg-primary-old-burgundy border border-primary-mauve/40 rounded-lg p-6">
-                <div className="flex items-center mb-3 gap-6">
-                  <div className="w-12 h-12 bg-primary-burgundy rounded-full flex items-center justify-center text-2xl font-bold text-white">
-                    %40
-                  </div>
-                  <h4 className="text-xl font-semibold text-primary-cream">
-                    نمو متوسط
-                  </h4>
-                </div>
-                <p className="text-primary-cream/70">
-                  معدل نمو متوسط في المبيعات للشركات التي عملت معها
-                </p>
-              </div>
-
-              <div className="bg-primary-old-burgundy border border-primary-mauve/40 rounded-lg p-6">
-                <div className="flex items-center mb-3 gap-6">
-                  <div className="w-12 h-12 bg-primary-burgundy rounded-full flex items-center justify-center text-2xl font-bold text-white">
-                    +15
-                  </div>
-                  <h4 className="text-xl font-semibold text-primary-cream">
-                    جائزة وتقدير
-                  </h4>
-                </div>
-                <p className="text-primary-cream/70">
-                  حاصل على جوائز وتقديرات في مجال التسويق والابتكار
                 </p>
               </div>
             </div>
