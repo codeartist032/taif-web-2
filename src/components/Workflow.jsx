@@ -6,7 +6,7 @@ const Workflow = () => {
   return (
     <div className="mt-20">
       <h2 className="text-3xl sm:text-5xl lg:text-6xl text-center mt-6 tracking-wide">
-        تحسين <span className="text-primary-old-burgundy">مشروعك</span>
+        ماذا ستأخذ معك من صُنْعَة؟ 
       </h2>
       <div className="flex flex-wrap justify-center">
         {/* <div className="p-2 w-full lg:w-1/2">

@@ -4,11 +4,8 @@ const FeatureSection = () => {
   return (
     <div className="relative mt-20 border-b border-primary-mauve/30 min-h-[800px]">
       <div className="text-center">
-        <span className="bg-primary-peach text-primary-burgundy rounded-full h-6 text-sm font-medium px-2 py-1 uppercase">
-          مميزات
-        </span>
         <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 tracking-wide">
-          قم بتسويق <span className="text-primary-old-burgundy">مشروعك</span>
+         مميزات صُنعه
         </h2>
       </div>
       <div className="flex flex-wrap mt-10 lg:mt-20">
@@ -32,4 +29,4 @@ const FeatureSection = () => {
   );
 };
 
-export default FeatureSection;
+ export default FeatureSection;

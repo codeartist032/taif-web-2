@@ -4,12 +4,13 @@ const CaseStudy = () => {
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-12">
           <h2 className="text-3xl sm:text-5xl lg:text-6xl tracking-wide">
-            <span className="text-primary-old-burgundy">قبل وبعد</span> تطبيق
+             <span className="text-primary-old-burgundy">قبل وبعد</span> تطبيق
             الاستراتيجية
+      
           </h2>
           <p className="mt-4 text-xl text-black/70">
-            فرع نعومي مكة – طيف آل ظافر
-          </p>
+          تجربة ميدانية لصُنْعَة في أحد فروع التجزئة
+                    </p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -20,21 +21,22 @@ const CaseStudy = () => {
                 ✗
               </div>
               <h3 className="text-2xl font-bold mr-4 text-primary-cream">
-                قبل التطبيق
+            قبل تطبيق استراتيجية صُنْعَة
               </h3>
             </div>
             <ul className="space-y-4 text-primary-cream">
               <li className="flex items-start">
                 <span className="text-primary-mauve ml-3">•</span>
-                <span>ضعف التفاعل الرقمي مقارنة ببقية الفروع</span>
+                <span>تفاعل محدود: كان هناك مستوى تفاعل أقل مما هو متوقع</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary-mauve ml-3">•</span>
-                <span>ضعف الهوية البصرية على السوشيال</span>
+                <span>تجربة غير ملموسة: لم يكن هناك ارتباط واضح بين المحتوى والإحساس الذي يُراد نقله</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary-mauve ml-3">•</span>
-                <span>فجوة واضحة بين توقعات العميلة والتجربة داخل الفرع</span>
+                <span>تأثير محدود: لم تحقّق التجربة التأثير المطلوب.
+</span>
               </li>
             </ul>
           </div>
@@ -46,46 +48,24 @@ const CaseStudy = () => {
                 ✓
               </div>
               <h3 className="text-2xl font-bold mr-4 text-primary-burgundy">
-                بعد التطبيق
+                بعد تطبيق استراتيجية صُنْعَة
               </h3>
             </div>
             <ul className="space-y-4 text-primary-black">
               <li className="flex items-start">
                 <span className="text-primary-burgundy ml-3">•</span>
-                <span>ارتفع التفاعل بشكل ملحوظ</span>
+                <span>زيادة التفاعل: ارتفع مستوى التفاعل بشكل ملحوظ.</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary-burgundy ml-3">•</span>
-                <span>زاد رضا العملاء بشكل كبير</span>
+                <span>تجربة مؤثرة: تم ربط الإحساس بالمحتوى مما جعل التجربة أكثر واقعية.</span>
               </li>
               <li className="flex items-start">
                 <span className="text-primary-burgundy ml-3">•</span>
-                <span>أصبحت الموظفات يقدمن المنتجات بثقة أكبر</span>
-              </li>
-              <li className="flex items-start">
-                <span className="text-primary-black ml-3">•</span>
-                <span>ارتفاع تدريجي وواضح في المبيعات</span>
-              </li>
-              <li className="flex items-start">
-                <span className="text-primary-black ml-3">•</span>
-                <span>
-                  الأنشطة التسويقية كانت فعّالة جداً وسبب رئيسي في تحسين صورة
-                  الفرع
-                </span>
+                <span>ارتفاع المبيعات: حقّقت الاستراتيجية نتائج ملموسة في زيادة المبيعات</span>
+              
               </li>
             </ul>
-          </div>
-        </div>
-
-        {/* Testimonial */}
-        <div className="mt-12 bg-gradient-to-r from-primary-burgundy to-primary-mauve rounded-lg p-1">
-          <div className="bg-primary-old-burgundy rounded-lg p-8">
-            <p className="text-2xl text-center italic text-primary-cream mb-4">
-              "كان كل شيء ممتاز ونطمح للاستمرار بنفس الأسلوب وتطويره أكثر حقاً"
-            </p>
-            <p className="text-center text-primary-burgundy font-semibold">
-              - مديرة فرع نعومي مكة
-            </p>
           </div>
         </div>
       </div>

@@ -32,41 +32,12 @@ const AboutMe = () => {
                   المبيعات… بدون تعقيد وبدون الحاجة لخبرة تسويقية مسبقة. صُنْعَة
                   هي خلاصة تجربة واقعية… صممت لتُشعَر وتُرى وتُطبَّق بسهولة.
                 </p>
-                <p className="text-lg text-primary-cream/80 leading-relaxed mb-6">
-                  طورت استراتيجية Soft-Touch Sensory Marketing Loop وطبقتها
-                  بنفسي على فرع نعومي مكة
-                </p>
-                <div className="bg-primary-cream rounded-lg p-6 mb-6">
-                  <h4 className="text-xl font-semibold mb-4">النتيجة</h4>
-                  <ul className="space-y-2 text-black/80">
-                    <li>• ارتفاع ملحوظ في التفاعل</li>
-                    <li>• زيادة كبيرة في رضا العملاء</li>
-                    <li>• ارتفاع تدريجي وواضح في المبيعات</li>
-                  </ul>
-                </div>
-                <p className="text-xl text-primary-burgundy font-semibold">
-                  الآن أشاركها معك كاملة بـ 99 ريال فقط
-                </p>
               </div>
             </div>
           </div>
 
           <div className="w-full lg:w-1/2 p-4">
             <div className="space-y-10">
-              <div className="bg-primary-old-burgundy border border-primary-mauve/40 rounded-lg p-6">
-                <div className="flex items-center mb-3 gap-6">
-                  <div className="w-12 h-12 bg-primary-burgundy rounded-full flex items-center justify-center text-2xl font-bold text-white">
-                    +50
-                  </div>
-                  <h4 className="text-xl font-semibold text-primary-cream">
-                    عميل راضٍ
-                  </h4>
-                </div>
-                <p className="text-primary-cream/70">
-                  ساعدت أكثر من 50 شركة في تحسين حضورها الرقمي وزيادة مبيعاتها
-                </p>
-              </div>
-
               <div className="bg-primary-old-burgundy border border-primary-mauve/40 rounded-lg p-6">
                 <div className="flex items-center mb-3 gap-6">
                   <div className="w-12 h-12 bg-primary-burgundy rounded-full flex items-center justify-center text-2xl font-bold text-white">
